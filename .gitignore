@@ -6,3 +6,4 @@
 /.vs
 /vairline.ui/bin/Debug
 /vairline.ui/obj
+/vairline.api/bin/Debug/net8.0
